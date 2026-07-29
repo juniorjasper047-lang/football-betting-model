@@ -26,3 +26,6 @@ date,league,home,away,market,selection,best_odds,book,model_prob,true_implied,ed
 2026-07-29,CL Qual League Path,Gornik Zabrze,Fenerbahce,Draw,Draw,4.50,SportyBet,0.2820,0.2222,0.0598,0.2690,0.30,100.00,open,
 2026-07-29,CL Qual,H. Beer-Sheva,Vikingur Reykjavik,Draw,Draw,3.80,SportyBet,0.3210,0.2632,0.0578,0.2198,0.30,100.00,open,
 2026-07-29,CL Qual,Kauno Zalgiris,KI Klaksvik,Draw,Draw,3.55,SportyBet,0.3380,0.2817,0.0563,0.1999,0.30,100.00,open,
+2026-07-29,Conf Lge Qual,Copenhagen,Polissya Zhytomyr,Home Win,Home Win,1.72,SportyBet,0.8240,0.5814,0.2426,0.4173,0.75,100.00,open,
+2026-07-29,Conf Lge Qual,Rapid Wien,FC Santa Coloma,Draw,Draw,8.50,SportyBet,0.2310,0.1176,0.1134,0.9635,0.50,100.00,open,
+2026-07-29,Conf Lge Qual,Dukagjini,Lugano,Draw,Draw,3.85,SportyBet,0.3180,0.2597,0.0583,0.2243,0.30,100.00,open,
