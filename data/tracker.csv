@@ -52,3 +52,5 @@ date,league,home,away,market,selection,best_odds,book,model_prob,true_implied,ed
 2026-08-01,Croatia HNL,NK Istra 1961,NK Lokomotiva Zagreb,Over 2.5,Yes,1.95,SportyBet,0.5660,0.5128,0.0532,0.1037,0.30,94.70,won,IST 2-3 LOK
 2026-08-02,Eliteserien,KFUM Oslo,Kristiansund,Home Win,Home Win,2.20,SportyBet,0.5630,0.4545,0.1085,0.2386,0.75,100.00,won,KFUM 2-1 KRI
 2026-08-02,Scottish Premiership,Hibernian,Motherwell,Over 2.5,Yes,1.78,SportyBet,0.6140,0.5618,0.0522,0.0929,0.30,100.00,won,HIB 1-2 MOT
+2026-08-03,Scottish Premiership,Celtic,Dundee,Home Win,Home Win,1.45,SportyBet,0.8260,0.6897,0.1363,0.1977,0.75,100.00,won,CEL 1-0 DUN
+2026-08-03,Scottish Premiership,Celtic,Dundee,Over 2.5,Yes,1.75,SportyBet,0.7020,0.5714,0.1306,0.2285,0.75,100.00,lost,CEL 1-0 DUN
