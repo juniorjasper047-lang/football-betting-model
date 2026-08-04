@@ -54,3 +54,14 @@ date,league,home,away,market,selection,best_odds,book,model_prob,true_implied,ed
 2026-08-02,Scottish Premiership,Hibernian,Motherwell,Over 2.5,Yes,1.78,SportyBet,0.6140,0.5618,0.0522,0.0929,0.30,100.00,won,HIB 1-2 MOT
 2026-08-03,Scottish Premiership,Celtic,Dundee,Home Win,Home Win,1.45,SportyBet,0.8260,0.6897,0.1363,0.1977,0.75,100.00,won,CEL 1-0 DUN
 2026-08-03,Scottish Premiership,Celtic,Dundee,Over 2.5,Yes,1.75,SportyBet,0.7020,0.5714,0.1306,0.2285,0.75,100.00,lost,CEL 1-0 DUN
+2026-08-04,CL Qual,Ararat-Armenia,Celje,BTTS,Yes,2.22,SportsMole,0.518,0.450,0.068,0.150,0.30,100.00,open,
+2026-08-04,CL Qual,Mjallby AIF,Slovan Bratislava,Over/Under,Over 2.5,2.01,SportsMole,0.568,0.498,0.070,0.141,0.50,100.00,open,
+2026-08-04,CL Qual,Mjallby AIF,Slovan Bratislava,BTTS,Yes,1.98,SportsMole,0.581,0.505,0.076,0.150,0.50,100.00,open,
+2026-08-04,CL Qual,Sparta Prague,Lyon,BTTS,Yes,1.99,SportsMole,0.566,0.503,0.063,0.126,0.30,100.00,open,
+2026-08-04,CL Qual,Union SG,Bodo/Glimt,Over/Under,Over 2.5,1.84,SportsMole,0.596,0.543,0.052,0.096,0.30,100.00,open,
+2026-08-04,CL Qual,Union SG,Bodo/Glimt,BTTS,Yes,1.84,SportsMole,0.604,0.543,0.060,0.110,0.30,100.00,open,
+2026-08-04,CL Qual,Olympiacos,NEC Nijmegen,Over/Under,Over 2.5,2.16,SportsMole,0.561,0.463,0.098,0.212,0.50,100.00,open,
+2026-08-04,CL Qual,Olympiacos,NEC Nijmegen,BTTS,Yes,2.25,SportsMole,0.533,0.444,0.088,0.199,0.50,100.00,open,
+2026-08-04,EL Qual,Larne,Saburtalo Tbilisi,Over/Under,Over 2.5,2.05,SportsMole,0.539,0.488,0.051,0.105,0.30,100.00,open,
+2026-08-04,EL Qual,Larne,Saburtalo Tbilisi,BTTS,Yes,1.99,SportsMole,0.555,0.503,0.052,0.104,0.30,100.00,open,
+2026-08-04,EL Qual,Shamrock Rovers,Egnatia Rrogozhine,Over/Under,Over 2.5,2.18,SportsMole,0.511,0.459,0.052,0.114,0.30,100.00,open,
