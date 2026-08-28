@@ -35,18 +35,15 @@ A "safe picks" accumulator posted daily alongside the value singles. It gives th
 4. Stake fixed 0.5u; log slip to tracker (ParlayBankroll + ParlayStats)
 5. On results: settle legs → slip P&L → refresh ROI + bankroll
 
-## Example slip (2026-08-27)
-| Leg | Match | Market | Model | Odds |
-|-----|-------|--------|-------|------|
-| 1 | Arsenal (home) | Home Win | 80.7% | ~1.32 |
-| 2 | Sirius (home) | Over 2.5 | 70.6% | ~1.71 |
-| 3 | Marseille (home) | Over 2.5 | 61.5% | ~1.63 |
+## Slip history
+| Date | Legs | Combined odds | Stake | Result | P&L | Bankroll |
+|------|------|---------------|-------|--------|-----|----------|
+| 2026-08-27 | Barcelona HW 1.24 · Brighton HW 1.20 · Ajax HW 1.30 | 1.93 | 0.5u | ✅ WON | +0.465u | 50.00 → 50.465 |
+| 2026-08-28 | Bayern HW 1.23 · Milan HW 1.39 | 1.71 | 0.5u | ⏳ Pending | — | 50.465 → (exposure 0.5u) |
 
-- Combined odds: **≈ 2.48**
-- Combined model probability: **≈ 35%**
-- Stake: **0.5u** · Potential return ≈ **1.24u**
+**ParlayStats (live):** 1 settled slip · 1 win · ROI +93% on stake (0.465u profit / 0.5u) · bankroll 50.465u
 
-**Honest framing:** a parlay multiplies risk — ~35% combined means it loses roughly 2/3 of the time. That is why it stays at 0.5u and never scales up.
+**Honest framing:** a parlay multiplies risk — ~52% combined means it loses roughly half the time on paper. That is why it stays at 0.5u and never scales up.
 
 ## Tracking & adaptation
 - Every slip logged: date, legs (match/market/selection/odds), combined odds, stake, status
