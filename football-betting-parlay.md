@@ -39,11 +39,12 @@ A "safe picks" accumulator posted daily alongside the value singles. It gives th
 | Date | Legs | Combined odds | Stake | Result | P&L | Bankroll |
 |------|------|---------------|-------|--------|-----|----------|
 | 2026-08-27 | Barcelona HW 1.24 · Brighton HW 1.20 · Ajax HW 1.30 | 1.93 | 0.5u | ✅ WON | +0.465u | 50.00 → 50.465 |
-| 2026-08-28 | Bayern HW 1.23 · Milan HW 1.39 | 1.71 | 0.5u | ⏳ Pending | — | 50.465 → (exposure 0.5u) |
+| 2026-08-28 | Bayern HW 1.23 · Milan HW 1.39 | 1.71 | 0.5u | ✅ WON | +0.355u | 50.465 → 50.82 |
+| 2026-08-29 | Celtic HW 1.21 · Juventus HW 1.23 · Viking HW 1.28 | 1.90 | 0.5u | ⏳ Pending | — | 50.82 → (exposure 0.5u) |
 
-**ParlayStats (live):** 1 settled slip · 1 win · ROI +93% on stake (0.465u profit / 0.5u) · bankroll 50.465u
+**ParlayStats (live):** 2 settled slips · 2 wins · ROI +82% on stake (0.82u profit / 1.0u) · bankroll 50.82u
 
-**Honest framing:** a parlay multiplies risk — ~52% combined means it loses roughly half the time on paper. That is why it stays at 0.5u and never scales up.
+**Honest framing:** a parlay multiplies risk — ~43–52% combined means it loses roughly half the time on paper. That is why it stays at 0.5u and never scales up.
 
 ## Tracking & adaptation
 - Every slip logged: date, legs (match/market/selection/odds), combined odds, stake, status
