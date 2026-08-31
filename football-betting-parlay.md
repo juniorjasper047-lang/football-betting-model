@@ -41,9 +41,10 @@ A "safe picks" accumulator posted daily alongside the value singles. It gives th
 | 2026-08-27 | Barcelona HW 1.24 × Brighton HW 1.20 × Ajax HW 1.30 | 1.93 | 0.5u | ✅ WON | +0.465u | 50.00 → 50.465 |
 | 2026-08-28 | Bayern HW 1.23 × Milan HW 1.39 | 1.71 | 0.5u | ✅ WON | +0.355u | 50.465 → 50.82 |
 | 2026-08-29 | Celtic HW 1.21 × Juventus HW 1.23 × Dortmund HW 1.31 | 1.95 | 0.5u | ✅ WON | +0.475u | 50.82 → 51.295 |
-| 2026-08-30 | Viking HW 1.23 × Bodø/Glimt HW 1.35 × Real Madrid O2.5 1.31 | 2.17 | 0.5u | ⏳ Pending | – | 51.295 → (exposure 0.5u) |
+| 2026-08-30 | Viking HW 1.23 × Bodø/Glimt HW 1.35 × Real Madrid O2.5 1.31 | 2.17 | 0.5u | ✅ WON | +0.585u | 51.295 → 51.88 |
+| 2026-08-31 | København HW 1.34 × Sirius O2.5 1.45 | 1.94 | 0.5u | ⏳ Pending | – | 51.88 → (exposure 0.5u) |
 
-**ParlayStats (live):** 3 settled slips × 3 wins × ROI +86.3% on stake (1.295u profit / 1.5u) × bankroll 51.295u
+**ParlayStats (live):** 4 settled slips × 4 wins × ROI +94.0% on stake (1.88u profit / 2.0u) × bankroll 51.88u
 
 **Honest framing:** a parlay multiplies risk — ~43–52% combined mean it loses roughly half the time on paper. That is why it stays at 0.5u and never scales up.
 
