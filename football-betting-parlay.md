@@ -43,6 +43,9 @@ A "safe picks" accumulator posted daily alongside the value singles. It gives th
 | 2026-08-29 | Celtic HW 1.21 × Juventus HW 1.23 × Dortmund HW 1.31 | 1.95 | 0.5u | ✅ WON | +0.475u | 50.82 → 51.295 |
 | 2026-08-30 | Viking HW 1.23 × Bodø/Glimt HW 1.35 × Real Madrid O2.5 1.31 | 2.17 | 0.5u | ✅ WON | +0.585u | 51.295 → 51.88 |
 | 2026-08-31 | København HW 1.34 × Sirius O2.5 1.45 | 1.94 | 0.5u | ⏳ Pending | – | 51.88 → (exposure 0.5u) |
+| 2026-08-31 | København O2.5 1.46 × Sirius O2.5 1.45 | 2.12 | 0.5u | ⏳ Pending | – | 51.88 → (exposure 1.0u) |
+| 2026-08-31 | København HW 1.34 × Barcelona O2.5 1.29 | 1.73 | 0.5u | ⏳ Pending | – | 51.88 → (exposure 1.5u) |
+| 2026-08-31 | Sirius O2.5 1.45 × Ilves O2.5 1.51 | 2.19 | 0.5u | ⏳ Pending | – | 51.88 → (exposure 2.0u) |
 
 **ParlayStats (live):** 4 settled slips × 4 wins × ROI +94.0% on stake (1.88u profit / 2.0u) × bankroll 51.88u
 
