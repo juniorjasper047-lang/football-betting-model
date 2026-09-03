@@ -46,8 +46,9 @@ A "safe picks" accumulator posted daily alongside the value singles. It gives th
 | 2026-08-31 | København O2.5 1.46 × Sirius O2.5 1.45 | 2.12 | 0.5u | ❌ LOST | -0.5u | 51.38 → 50.88 |
 | 2026-08-31 | København HW 1.34 × Barcelona O2.5 1.29 | 1.73 | 0.5u | ✅ WON | +0.365u | 50.88 → 51.245 |
 | 2026-08-31 | Sirius O2.5 1.45 × Ilves O2.5 1.51 | 2.19 | 0.5u | ❌ LOST | -0.5u | 51.245 → 50.745 |
+| 2026-09-02 | Celtic HW 1.24 × Luzern O2.5 1.33 | 1.65 | 0.5u | ✅ WON | +0.325u | 50.745 → 51.07 |
 
-**ParlayStats (live):** 8 settled slips × 5W-3L × ROI +18.6% on stake (0.745u profit / 4.0u) × bankroll 50.745u
+**ParlayStats (live):** 9 settled slips × 6W-3L × ROI +23.8% on stake (1.07u profit / 4.5u) × bankroll 51.07u
 
 **Honest framing:** a parlay multiplies risk — ~43–52% combined mean it loses roughly half the time on paper. That is why it stays at 0.5u and never scales up.
 

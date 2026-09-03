@@ -181,3 +181,4 @@ date,league,home,away,market,selection,best_odds,book,model_prob,true_implied,ed
 2026-08-31,MULTI,Kobenhavn/Barcelona,Sonderjyske/Rayo,1X2/O2.5,Home Win/Over 2.5,1.73,BSD consensus,0.405,0.578,-0.173,-0.087,0.50,51.88,won,+0.365u
 2026-08-31,MULTI,Kobenhavn/Sirius,Sonderjyske/Malmo,O2.5/O2.5,Over 2.5,2.12,BSD consensus,0.458,0.472,-0.014,-0.007,0.50,51.88,lost,KOB 3-1; SIR 0-1
 2026-08-31,MULTI,Sirius/Ilves,Malmo/HJK,O2.5/O2.5,Over 2.5,2.19,BSD consensus,0.415,0.457,-0.042,-0.021,0.50,51.88,lost,SIR 0-1; ILV 1-2
+2026-09-02,MULTI,Celtic/Luzern,Aberdeen/Vaduz,1X2/O2.5,Home Win/Over 2.5,1.65,BSD consensus,0.554,0.606,-0.052,-0.026,0.50,50.745,won,+0.325u
