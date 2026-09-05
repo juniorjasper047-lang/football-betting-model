@@ -48,14 +48,16 @@ A "safe picks" accumulator posted daily alongside the value singles. It gives th
 | 2026-08-31 | Sirius O2.5 1.45 × Ilves O2.5 1.51 | 2.19 | 0.5u | ❌ LOST | -0.5u | 51.245 → 50.745 |
 | 2026-09-02 | Celtic HW 1.24 × Luzern O2.5 1.33 | 1.65 | 0.5u | ✅ WON | +0.325u | 50.745 → 51.07 |
 
-| 2026-09-04 | Lyon HW 1.48 × Stuttgart O2.5 1.36 | 2.01 | 0.5u | ⏳ PENDING | — | 51.07 |
-| 2026-09-04 | Betis–Madrid O2.5 1.37 × Ipswich–LIV O2.5 1.40 | 1.92 | 0.5u | ⏳ PENDING | — | 51.07 |
-| 2026-09-04 | Fredrikstad–Glimt O2.5 1.36 × Aalesund–Start O2.5 1.47 | 2.00 | 0.5u | ⏳ PENDING | — | 51.07 |
-| 2026-09-04 | Stuttgart HW 1.49 × Sandefjord–Viking O2.5 1.45 | 2.16 | 0.5u | ⏳ PENDING | — | 51.07 |
-| 2026-09-04 | Lyon HW 1.48 × Betis–Madrid O2.5 1.37 | 2.03 | 0.5u | ⏳ PENDING | — | 51.07 |
-**ParlayStats (live):** 9 settled slips × 6W-3L × ROI +23.8% on stake (1.07u profit / 4.5u) × bankroll 51.07u
+| 2026-09-04 | Lyon HW 1.48 × Stuttgart O2.5 1.36 | 2.01 | 0.5u | ✅ WON | +0.505u | 51.07 → 51.575 |
+| 2026-09-04 | Betis–Madrid O2.5 1.37 × Ipswich–LIV O2.5 1.40 | 1.92 | 0.5u | ❌ LOST | -0.5u | 51.575 → 51.075 |
+| 2026-09-04 | Fredrikstad–Glimt O2.5 1.36 × Aalesund–Start O2.5 1.47 | 2.00 | 0.5u | ❌ LOST | -0.5u | 51.075 → 50.575 |
+| 2026-09-04 | Stuttgart HW 1.49 × Sandefjord–Viking O2.5 1.45 | 2.16 | 0.5u | ❌ LOST | -0.5u | 50.575 → 50.075 |
+| 2026-09-04 | Lyon HW 1.48 × Betis–Madrid O2.5 1.37 | 2.03 | 0.5u | ❌ LOST | -0.5u | 50.075 → 49.575 |
+**ParlayStats (live):** 14 settled slips × 7W-7L × ROI -6.1% on stake (net -0.425u / 7.0u staked) × bankroll 49.575u
 
-**2026-09-04:** 5 new slips logged @0.5u each (total exposure 2.5u, within 3u cap) — ⏳ pending settlement (k/o 17:00–19:05 UTC). Bankroll unchanged 51.07u until settle.
+**2026-09-04 settlement:** 5 slips → 1W-4L, net -1.495u. S1 won +0.505u (Lyon 3-1 Auxerre HW ✅; Stuttgart 4-1 Köln O2.5 ✅); S2–S5 lost: Betis 1-0 Madrid O2.5 ✗ killed S2+S5 (shared core again), Aalesund–Start 2-0 killed S3, Sandefjord–Viking 1-1 killed S4. Bankroll 51.07 → 49.575u.
+
+**2026-09-05:** 1 slip @0.5u — Bayern–Schalke O2.5 1.22 × Brann–Lillestrøm O2.5 1.43 = 1.74 ⏳ pending (k/o 16:00–16:30 UTC). Bankroll unchanged 49.575u until settle. Exposure 0.5u.
 
 **Honest framing:** a parlay multiplies risk — ~43–52% combined mean it loses roughly half the time on paper. That is why it stays at 0.5u and never scales up.
 
