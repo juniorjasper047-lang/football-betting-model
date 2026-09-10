@@ -188,4 +188,6 @@ date,league,home,away,market,selection,best_odds,book,model_prob,true_implied,ed
 2026-09-04,MULTI,Stuttgart/Sandefjord,Koln/Viking,1X2/O2.5,Home Win/Over 2.5,2.16,BSD consensus,0.407,0.463,-0.056,-0.028,0.50,51.07,lost,STU 4-1 KOL; SAN 1-1 VIK
 2026-09-04,MULTI,Lyon/Real Betis,Auxerre/Real Madrid,1X2/O2.5,Home Win/Over 2.5,2.03,BSD consensus,0.432,0.493,-0.061,-0.031,0.50,51.07,lost,LYO 3-1 AUX; BET 1-0 RMA
 2026-09-05,MULTI,Bayern Munich/SK Brann,Schalke 04/Lillestrom,O2.5/O2.5,Over 2.5,1.74,BSD consensus,0.474,0.505,-0.031,-0.016,0.50,49.575,lost,BAY 0-0 SCH; BRA 1-2 LIL
-2026-09-08,MULTI,AEK Athens/Borussia Dortmund,LASK Linz/Villarreal,O2.5/O2.5,Over 2.5,2.38,BSD consensus,0.448,0.375,0.073,0.037,0.50,49.075,pending,
+2026-09-08,MULTI,AEK Athens/Borussia Dortmund,LASK Linz/Villarreal,O2.5/O2.5,Over 2.5,2.38,BSD consensus,0.448,0.375,0.073,0.037,0.50,49.075,lost,AEK 1-0 LASK; BVB 3-2 VIL
+2026-09-10,Champions League,PSV Eindhoven,Shakhtar Donetsk,1X2,Home Win,1.42,BSD consensus,0.663,0.704,-0.041,-0.059,1.00,48.575,pending,BOTD
+2026-09-10,MULTI,Bayern Munich/Manchester United/PSV Eindhoven,Bodo-Glimt/Sabah FK/Shakhtar Donetsk,1X2/1X2/O1.5,Home Win/Home Win/Over 1.5,1.37,BSD consensus,0.618,0.730,-0.112,-0.153,0.50,48.575,pending,SAFE PARLAY
