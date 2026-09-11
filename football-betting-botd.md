@@ -44,12 +44,13 @@ reason either way — the log matters more than the pick.
 ## History
 | Date | Match | Selection | Odds | Model % | Stake | Result | P&L |
 |------|-------|-----------|------|---------|-------|--------|-----|
-| 2026-09-10 | PSV Eindhoven vs Shakhtar Donetsk | Home Win | 1.42 | 66.3% | 1.00u | PENDING | - |
+| 2026-09-10 | PSV Eindhoven vs Shakhtar Donetsk | Home Win | 1.42 | 66.3% | 1.00u | **LOST** (1-1) | **-1.00u** |
+| 2026-09-11 | FC Kobenhavn vs AC Horsens | Home Win | 1.27 | 73.3% | 1.00u | PENDING | - |
 
 ## Stats
-- Picks: **1** · Won 0 · Lost 0 · Pending 1
-- Staked: 1.00u · Returned: 0.00u · Net: 0.00u · ROI: n/a
-- Bankroll: **48.575u**
+- Picks: **2** · Won 0 · Lost 1 · Pending 1
+- Settled: 1 pick · 1.00u staked · 0.00u returned · Net **-1.00u** · ROI **-100%**
+- Bankroll: **47.76u** (Model-Best Bankroll, shared with the Safe Parlay)
 
 ## Notes
 - **2026-09-10 (launch):** PSV Home Win @1.42 taken as rank #1 of eligible selections.
@@ -58,6 +59,14 @@ reason either way — the log matters more than the pick.
   and Como O1.5 81.0% @1.16. All five went into the parlay candidate pool instead.
   Risk flagged at selection time: PSV had lost each of their previous five CL matchday-one
   fixtures, and four of their last five CL home games.
+- **2026-09-10 (settled):** PSV 1-1 Shakhtar Donetsk -> **LOST -1.00u**. The pre-kick-off risk note
+  (five straight CL matchday-one defeats, four of the last five CL home games lost) played out as a
+  1-1 draw. Bayern 5-0 and Man Utd 4-0 meant the parlay survived easily. Draws remain the single's
+  main enemy: a 73% shot loses ~19-29% of the time to the draw alone.
+- **2026-09-11:** FC Kobenhavn Home Win @1.27 (model 73.3%) is rank #1 of eligible selections.
+  Everything above it on the board sits under the 1.25 singles floor and went into the parlay pool:
+  AZ O1.5 88.6% @1.06, Kobenhavn O1.5 83.0% @1.13, AZ HW 82.2% @1.15, Rennes O1.5 81.9% @1.15,
+  Hacken O1.5 81.0% @1.15, Union Berlin O1.5 80.1% @1.18, AZ O2.5 74.8% @1.24.
 - **No-bet days are logged too.** A "No Bet of the Day" is a valid, expected outcome — never
   force a pick to fill the slot. The selection bar exists to stop that.
 
