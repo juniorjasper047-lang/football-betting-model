@@ -75,16 +75,27 @@ Splitting one bankroll across slips built on the same matches is **correlation, 
 | 2026-09-04 | Lyon HW 1.48 x Betis-Madrid O2.5 1.37 | 2.03 | 0.5u | LOST | -0.5u | 50.075 -> 49.575 |
 | 2026-09-05 | Bayern-Schalke O2.5 1.22 x Brann-Lillestrom O2.5 1.43 | 1.74 | 0.5u | LOST | -0.5u | 49.575 -> 49.075 |
 | 2026-09-08 | AEK Athens O2.5 1.63 x Dortmund O2.5 1.46 | 2.38 | 0.5u | LOST | -0.5u | 49.075 -> 48.575 |
-| 2026-09-10 | Bayern HW 1.10 x Man Utd HW 1.11 x PSV O1.5 1.12 | 1.37 | 0.5u | PENDING | - | 48.575 -> |
+| 2026-09-10 | Bayern HW 1.10 x Man Utd HW 1.11 x PSV O1.5 1.12 | 1.37 | 0.5u | **WON** | **+0.185u** | 48.575 -> 47.76 (day -0.815u incl. BOTD) |
+| 2026-09-11 | AZ Alkmaar HW 1.15 x FC Kobenhavn HW 1.27 | 1.46 | 0.5u | PENDING | - | 47.76 -> |
 
-**ParlayStats (live):** 16 settled slips x 7W-9L x net **-1.425u** on 8.0u staked x **ROI -17.8%** x bankroll **48.575u** (17th slip pending)
-**Leg-level record:** Home Win **15/15** · Over 2.5 **9/18** · Draw/Away 0/0 attempted
+**ParlayStats (live):** 17 settled slips x 8W-9L x net **-1.240u** on 8.5u staked x **ROI -14.6%** x bankroll **47.76u** (18th slip pending)
+**Leg-level record:** Home Win **17/17** · Over 1.5 **1/1** (tagged since v2) · Over 2.5 **9/18** · Draw/Away 0/0 attempted
 
 **2026-09-08 settlement:** 1 slip @0.5u -> **LOST -0.5u**. AEK Athens 1-0 LASK Linz (O2.5 ✗); Borussia Dortmund 3-2 Villarreal (O2.5 ✓). Bankroll 49.075 -> 48.575u. Both legs were Over 2.5 again — the market that accounts for 9 of the 18 Over 2.5 legs and most losses.
 
 **2026-09-09:** no picks logged (CL matchday not analysed; 0 exposure).
 
 **2026-09-10 (strategy v2 launch):** 1 slip @0.5u -> **Bayern HW 1.10 x Man Utd HW 1.11 x PSV O1.5 1.12 = 1.37** (combined model 61.8%). All three legs >= 83.8% model. Third leg added because the top two legs only reached 1.221 (< 1.35 floor). Leg 3 shares the PSV match with the Bet of the Day (allowed: max 1 shared leg).
+
+**2026-09-10 settlement:** 1 slip @0.5u -> **WON +0.185u**. Bayern 5-0 Bodo/Glimt (HW ✓),
+Man Utd 4-0 Sabah FK (HW ✓), PSV 1-1 Shakhtar Donetsk (O1.5 ✓). Bankroll 48.575 -> 47.76u for the day
+(slip +0.185u, BOTD -1.00u). First settled v2 slip won, and the Over 1.5 leg survived a 1-1 - exactly the
+scoreline that killed previous Over 2.5 legs.
+
+**2026-09-11 (1 slip @0.5u):** **AZ Alkmaar HW 1.15 x FC Kobenhavn HW 1.27 = 1.46** (combined model 60.3%).
+Two Home Win legs and two legs only - the pair already clears the 1.35 floor, so no third leg. Leg 2 shares
+the Kobenhavn match with the Bet of the Day (allowed: max 1). The non-correlated alternative was
+AZ HW x Rennes O1.5 @1.15 = 1.32 (67.3%).
 
 **Honest framing:** every leg carries the bookmaker margin, so a slip's EV ~= -(margin x legs). A 3-leg slip is roughly a **-15% EV bet**. This is a hit-rate / variance play, **not** a value bet. Expect to lose the slip about 4 times in 10. That is why it stays at 0.5u and never scales up.
 
