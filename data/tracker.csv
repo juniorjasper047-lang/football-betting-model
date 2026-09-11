@@ -189,5 +189,7 @@ date,league,home,away,market,selection,best_odds,book,model_prob,true_implied,ed
 2026-09-04,MULTI,Lyon/Real Betis,Auxerre/Real Madrid,1X2/O2.5,Home Win/Over 2.5,2.03,BSD consensus,0.432,0.493,-0.061,-0.031,0.50,51.07,lost,LYO 3-1 AUX; BET 1-0 RMA
 2026-09-05,MULTI,Bayern Munich/SK Brann,Schalke 04/Lillestrom,O2.5/O2.5,Over 2.5,1.74,BSD consensus,0.474,0.505,-0.031,-0.016,0.50,49.575,lost,BAY 0-0 SCH; BRA 1-2 LIL
 2026-09-08,MULTI,AEK Athens/Borussia Dortmund,LASK Linz/Villarreal,O2.5/O2.5,Over 2.5,2.38,BSD consensus,0.448,0.375,0.073,0.037,0.50,49.075,lost,AEK 1-0 LASK; BVB 3-2 VIL
-2026-09-10,Champions League,PSV Eindhoven,Shakhtar Donetsk,1X2,Home Win,1.42,BSD consensus,0.663,0.704,-0.041,-0.059,1.00,48.575,pending,BOTD
-2026-09-10,MULTI,Bayern Munich/Manchester United/PSV Eindhoven,Bodo-Glimt/Sabah FK/Shakhtar Donetsk,1X2/1X2/O1.5,Home Win/Home Win/Over 1.5,1.37,BSD consensus,0.618,0.730,-0.112,-0.153,0.50,48.575,pending,SAFE PARLAY
+2026-09-10,Champions League,PSV Eindhoven,Shakhtar Donetsk,1X2,Home Win,1.42,BSD consensus,0.663,0.704,-0.041,-0.059,1.00,48.575,lost,BOTD - PSV 1-1 SHA
+2026-09-10,MULTI,Bayern Munich/Manchester United/PSV Eindhoven,Bodo-Glimt/Sabah FK/Shakhtar Donetsk,1X2/1X2/O1.5,Home Win/Home Win/Over 1.5,1.37,BSD consensus,0.618,0.730,-0.112,-0.153,0.50,48.575,won,SAFE PARLAY - BAY 5-0 BOD; MUN 4-0 SAB; PSV 1-1 SHA
+2026-09-11,Danish Superliga,FC Kobenhavn,AC Horsens,1X2,Home Win,1.27,BSD consensus,0.733,0.787,-0.054,-0.069,1.00,47.76,pending,BOTD
+2026-09-11,MULTI,AZ Alkmaar/FC Kobenhavn,Willem II/AC Horsens,1X2/1X2,Home Win/Home Win,1.46,BSD consensus,0.603,0.685,-0.082,-0.120,0.50,47.76,pending,SAFE PARLAY
