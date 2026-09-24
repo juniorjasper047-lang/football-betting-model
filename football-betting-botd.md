@@ -45,12 +45,12 @@ reason either way — the log matters more than the pick.
 | Date | Match | Selection | Odds | Model % | Stake | Result | P&L |
 |------|-------|-----------|------|---------|-------|--------|-----|
 | 2026-09-10 | PSV Eindhoven vs Shakhtar Donetsk | Home Win | 1.42 | 66.3% | 1.00u | **LOST** (1-1) | **-1.00u** |
-| 2026-09-11 | FC Kobenhavn vs AC Horsens | Home Win | 1.27 | 73.3% | 1.00u | PENDING | - |
+| 2026-09-11 | FC Kobenhavn vs AC Horsens | Home Win | 1.27 | 73.3% | 1.00u | **WON** (2-0) | **+0.27u** |
 
 ## Stats
-- Picks: **2** · Won 0 · Lost 1 · Pending 1
-- Settled: 1 pick · 1.00u staked · 0.00u returned · Net **-1.00u** · ROI **-100%**
-- Bankroll: **47.76u** (Model-Best Bankroll, shared with the Safe Parlay)
+- Picks: **2** · Won 1 · Lost 1 · Pending 0
+- Settled: 2 picks · 2.00u staked · 1.27u returned · Net **-0.73u** · ROI **-36.5%**
+- Bankroll: **47.53u** (Model-Best Bankroll, shared with the Safe Parlay)
 
 ## Notes
 - **2026-09-10 (launch):** PSV Home Win @1.42 taken as rank #1 of eligible selections.
@@ -67,6 +67,10 @@ reason either way — the log matters more than the pick.
   Everything above it on the board sits under the 1.25 singles floor and went into the parlay pool:
   AZ O1.5 88.6% @1.06, Kobenhavn O1.5 83.0% @1.13, AZ HW 82.2% @1.15, Rennes O1.5 81.9% @1.15,
   Hacken O1.5 81.0% @1.15, Union Berlin O1.5 80.1% @1.18, AZ O2.5 74.8% @1.24.
+- **2026-09-11 (settled):** FC Kobenhavn 2-0 AC Horsens -> **WON +0.27u**. First winning Bet of the Day.
+  The single was rank #1 on model probability and the favourite was never in trouble - this is exactly the
+  profile the odds floor (>= 1.25) lets through. Running BOTD record 1W-1L, net -0.73u.
+- **2026-09-12 -> 2026-09-23:** no picks logged (no analysis sessions). 0 exposure, no settlement outstanding.
 - **No-bet days are logged too.** A "No Bet of the Day" is a valid, expected outcome — never
   force a pick to fill the slot. The selection bar exists to stop that.
 

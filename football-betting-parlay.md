@@ -76,9 +76,9 @@ Splitting one bankroll across slips built on the same matches is **correlation, 
 | 2026-09-05 | Bayern-Schalke O2.5 1.22 x Brann-Lillestrom O2.5 1.43 | 1.74 | 0.5u | LOST | -0.5u | 49.575 -> 49.075 |
 | 2026-09-08 | AEK Athens O2.5 1.63 x Dortmund O2.5 1.46 | 2.38 | 0.5u | LOST | -0.5u | 49.075 -> 48.575 |
 | 2026-09-10 | Bayern HW 1.10 x Man Utd HW 1.11 x PSV O1.5 1.12 | 1.37 | 0.5u | **WON** | **+0.185u** | 48.575 -> 47.76 (day -0.815u incl. BOTD) |
-| 2026-09-11 | AZ Alkmaar HW 1.15 x FC Kobenhavn HW 1.27 | 1.46 | 0.5u | PENDING | - | 47.76 -> |
+| 2026-09-11 | AZ Alkmaar HW 1.15 x FC Kobenhavn HW 1.27 | 1.46 | 0.5u | **LOST** | **-0.5u** | 47.76 -> 47.26 |
 
-**ParlayStats (live):** 17 settled slips x 8W-9L x net **-1.240u** on 8.5u staked x **ROI -14.6%** x bankroll **47.76u** (18th slip pending)
+**ParlayStats (live):** 18 settled slips x 8W-10L x net **-1.740u** on 9.0u staked x **ROI -19.3%** x bankroll **47.53u** (no slip pending)
 **Leg-level record:** Home Win **17/17** · Over 1.5 **1/1** (tagged since v2) · Over 2.5 **9/18** · Draw/Away 0/0 attempted
 
 **2026-09-08 settlement:** 1 slip @0.5u -> **LOST -0.5u**. AEK Athens 1-0 LASK Linz (O2.5 ✗); Borussia Dortmund 3-2 Villarreal (O2.5 ✓). Bankroll 49.075 -> 48.575u. Both legs were Over 2.5 again — the market that accounts for 9 of the 18 Over 2.5 legs and most losses.
@@ -96,6 +96,13 @@ scoreline that killed previous Over 2.5 legs.
 Two Home Win legs and two legs only - the pair already clears the 1.35 floor, so no third leg. Leg 2 shares
 the Kobenhavn match with the Bet of the Day (allowed: max 1). The non-correlated alternative was
 AZ HW x Rennes O1.5 @1.15 = 1.32 (67.3%).
+
+**2026-09-11 settlement:** 1 slip @0.5u -> **LOST -0.5u**. AZ Alkmaar 1-1 Willem II Tilburg (Home Win ✗);
+FC Kobenhavn 2-0 AC Horsens (Home Win ✓). The slip died on the leg the BOTD did not need - a home favourite
+dropping two points at 1.15. Home Win legs are now **17/18** on settled slips (the 18/18 streak ends here).
+Bankroll 47.76 -> 47.26u on the slip, 47.53u for the day after the winning single.
+
+**2026-09-12 -> 2026-09-23:** no slips logged (no analysis sessions) - 0 exposure, nothing pending.
 
 **Honest framing:** every leg carries the bookmaker margin, so a slip's EV ~= -(margin x legs). A 3-leg slip is roughly a **-15% EV bet**. This is a hit-rate / variance play, **not** a value bet. Expect to lose the slip about 4 times in 10. That is why it stays at 0.5u and never scales up.
 
