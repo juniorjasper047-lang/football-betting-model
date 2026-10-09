@@ -193,3 +193,5 @@ date,league,home,away,market,selection,best_odds,book,model_prob,true_implied,ed
 2026-09-10,MULTI,Bayern Munich/Manchester United/PSV Eindhoven,Bodo-Glimt/Sabah FK/Shakhtar Donetsk,1X2/1X2/O1.5,Home Win/Home Win/Over 1.5,1.37,BSD consensus,0.618,0.730,-0.112,-0.153,0.50,48.575,won,SAFE PARLAY - BAY 5-0 BOD; MUN 4-0 SAB; PSV 1-1 SHA
 2026-09-11,Danish Superliga,FC Kobenhavn,AC Horsens,1X2,Home Win,1.27,BSD consensus,0.733,0.787,-0.054,-0.069,1.00,47.76,won,BOTD - KOB 2-0 HOR
 2026-09-11,MULTI,AZ Alkmaar/FC Kobenhavn,Willem II/AC Horsens,1X2/1X2,Home Win/Home Win,1.46,BSD consensus,0.603,0.685,-0.082,-0.120,0.50,47.76,lost,SAFE PARLAY - AZ 1-1 WIL; KOB 2-0 HOR
+2026-10-09,Bundesliga,Borussia Dortmund,SV Werder Bremen,1X2,Home Win,1.31,BSD consensus,0.720,0.720,0.000,-0.057,1.00,47.53,pending,BOTD
+2026-10-09,MULTI,Borussia Dortmund/SK Brann,SV Werder Bremen/Viking FK,1X2/O1.5,Home Win/Over 1.5,1.44,BSD consensus,0.613,0.615,-0.002,-0.116,0.50,47.53,pending,SAFE PARLAY
