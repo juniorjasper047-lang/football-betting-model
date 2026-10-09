@@ -76,10 +76,13 @@ Splitting one bankroll across slips built on the same matches is **correlation, 
 | 2026-09-05 | Bayern-Schalke O2.5 1.22 x Brann-Lillestrom O2.5 1.43 | 1.74 | 0.5u | LOST | -0.5u | 49.575 -> 49.075 |
 | 2026-09-08 | AEK Athens O2.5 1.63 x Dortmund O2.5 1.46 | 2.38 | 0.5u | LOST | -0.5u | 49.075 -> 48.575 |
 | 2026-09-10 | Bayern HW 1.10 x Man Utd HW 1.11 x PSV O1.5 1.12 | 1.37 | 0.5u | **WON** | **+0.185u** | 48.575 -> 47.76 (day -0.815u incl. BOTD) |
-| 2026-09-11 | AZ Alkmaar HW 1.15 x FC Kobenhavn HW 1.27 | 1.46 | 0.5u | **LOST** | **-0.5u** | 47.76 -> 47.26 |
+| 2026-09-11 | AZ Alkmaar HW 1.15 x FC Kobenhavn HW 1.27 | 1.46 | 0.5u | **LOST** | **-0.5u** | 47.76 -> 47.53 (day +0.27u BOTD / -0.5u slip) |
+| 2026-10-09 | Dortmund HW 1.31 x Brann-Viking O1.5 1.10 | 1.44 | 0.5u | *pending* | — | 47.53 -> ? |
 
-**ParlayStats (live):** 18 settled slips x 8W-10L x net **-1.740u** on 9.0u staked x **ROI -19.3%** x bankroll **47.53u** (no slip pending)
+**ParlayStats (live):** 19 slips x 18 settled (8W-10L) x 1 pending x net **-1.740u** on 9.0u staked x **ROI -19.3%** x bankroll **47.53u**
 **Leg-level record:** Home Win **17/17** · Over 1.5 **1/1** (tagged since v2) · Over 2.5 **9/18** · Draw/Away 0/0 attempted
+
+**2026-10-09 slip:** Dortmund HW 1.31 (72.0%) x Brann-Viking O1.5 1.10 (85.2%) = **1.44**, 0.5u, combined model 61.3%. First slip after the two-week international break. Brann's top scorer **Kristall Mani Ingason is suspended** and forward Mathisen is out, but the goals case is two-sided (Brann conceded in 5 of their last 6; Viking scored in each of their last 6, lead the Eliteserien on 50 pts with 45 goals in 21) and Viking are missing two defenders. Leg 1 is shared with the BOTD. Rejected alternatives: PSV HW (rotating ahead of a CL game in 4 days), Zlin O1.5 x Beveren O1.5 = 1.36 (64.6% win prob but two lower-context goals legs), and a 3x O1.5 slip (1.32 - pays the margin three times for ~0.3pp).
 
 **2026-09-08 settlement:** 1 slip @0.5u -> **LOST -0.5u**. AEK Athens 1-0 LASK Linz (O2.5 ✗); Borussia Dortmund 3-2 Villarreal (O2.5 ✓). Bankroll 49.075 -> 48.575u. Both legs were Over 2.5 again — the market that accounts for 9 of the 18 Over 2.5 legs and most losses.
 
