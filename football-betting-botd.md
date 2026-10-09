@@ -46,13 +46,21 @@ reason either way — the log matters more than the pick.
 |------|-------|-----------|------|---------|-------|--------|-----|
 | 2026-09-10 | PSV Eindhoven vs Shakhtar Donetsk | Home Win | 1.42 | 66.3% | 1.00u | **LOST** (1-1) | **-1.00u** |
 | 2026-09-11 | FC Kobenhavn vs AC Horsens | Home Win | 1.27 | 73.3% | 1.00u | **WON** (2-0) | **+0.27u** |
+| 2026-10-09 | Borussia Dortmund vs Werder Bremen | Home Win | 1.31 | 72.0% | 1.00u | *pending* | — |
 
 ## Stats
-- Picks: **2** · Won 1 · Lost 1 · Pending 0
+- Picks: **3** · Won 1 · Lost 1 · Pending 1
 - Settled: 2 picks · 2.00u staked · 1.27u returned · Net **-0.73u** · ROI **-36.5%**
 - Bankroll: **47.53u** (Model-Best Bankroll, shared with the Safe Parlay)
 
 ## Notes
+- **2026-10-09:** Dortmund Home Win @1.31 (72.0%). Rank #1 on the board was PSV HW 75.2% @1.25 —
+  **dropped by the team-news override**: Champions League in four days, 8 absentees, international
+  returnees and no clean sheet all season (Sports Mole flagged the balancing act). Rank #2 Braga O1.5
+  72.6% @1.29 was 0.6pp above Dortmund, but it is a goals leg in a match whose model favourite is the
+  away side, and Home Win is this account's best leg type (17/17 settled). Dortmund: top of the table,
+  12/12 pts, 6 straight wins in all comps, Kobel yet to concede at home; Werder winless in 5 away
+  Bundesliga games and scoreless in 5 of the last 7 H2H. Sports Mole predicts 3-1, Whispers 3-0.
 - **2026-09-10 (launch):** PSV Home Win @1.42 taken as rank #1 of eligible selections.
   Ranked above it by raw probability — but excluded by the 1.25 odds floor — were
   Bayern HW 86.3% @1.10, Man Utd HW 85.5% @1.11, Bayern O2.5 83.3% @1.12, PSV O1.5 83.8% @1.12
